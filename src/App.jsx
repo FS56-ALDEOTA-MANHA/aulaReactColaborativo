@@ -1,5 +1,6 @@
 import './App.css'
 import Categorias from "./components/Categorias"
+import Jacqueline from './components/Jacqueline'
 import Nayara from "./components/Nayara"
 import Section from "./components/Section"
 
@@ -14,6 +15,7 @@ const App = () => {
       <Section titulo="Mais vendidos"/>
       <Section titulo="Contato"/> */}
       <Nayara/>
+      <Jacqueline/>
     </>
   )
 }

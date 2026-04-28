@@ -8,3 +8,6 @@ const Zenith = () => {
     </div>
   )
 } 
+
+
+export default Zenith
